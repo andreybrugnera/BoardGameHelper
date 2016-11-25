@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Board Game Helper</string>
+    <string name="function_dice">Roll the dice(s)</string>
+    <string name="roll_dices">Roll the dice(s)</string>
+    <string name="function_timer">Timer</string>
+    <string name="function_stopwatch">Stopwatch</string>
+    <string name="number_of_dices">Number of dices</string>
+    <string name="number_of_seconds">Number of seconds</string>
+    <string name="change_number_of_dices">Change number of dices</string>
+    <string name="number_of_dices_changed">Number of dices changed</string>
+    <string name="ok">OK</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="stop">Stop</string>
+    <string name="change_timer">Change timer</string>
+
+    <string-array name="array_number_of_dices">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="array_number_of_seconds">
+        <item>30</item>
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+        <item>150</item>
+        <item>180</item>
+        <item>210</item>
+    </string-array>
+</resources>
