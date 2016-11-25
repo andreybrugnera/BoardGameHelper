@@ -1,7 +1,7 @@
 package br.edu.ifspsaocarlos.sdm.boardgamehelper.model;
 
 /**
- * Represents an available function
+ * Representa uma função disponível no app
  * Created by Andrey on 07/11/2016.
  */
 
